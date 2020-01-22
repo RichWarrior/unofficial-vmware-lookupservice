@@ -1,8 +1,0 @@
-C:\Projects\vmware-lookupservice\vmware.lookupservice\obj\Debug\netcoreapp3.1\vmware.lookupservice.csprojAssemblyReference.cache
-C:\Projects\vmware-lookupservice\vmware.lookupservice\obj\Debug\netcoreapp3.1\vmware.lookupservice.AssemblyInfoInputs.cache
-C:\Projects\vmware-lookupservice\vmware.lookupservice\obj\Debug\netcoreapp3.1\vmware.lookupservice.AssemblyInfo.cs
-C:\Projects\vmware-lookupservice\vmware.lookupservice\bin\Debug\netcoreapp3.1\vmware.lookupservice.deps.json
-C:\Projects\vmware-lookupservice\vmware.lookupservice\bin\Debug\netcoreapp3.1\vmware.lookupservice.dll
-C:\Projects\vmware-lookupservice\vmware.lookupservice\bin\Debug\netcoreapp3.1\vmware.lookupservice.pdb
-C:\Projects\vmware-lookupservice\vmware.lookupservice\obj\Debug\netcoreapp3.1\vmware.lookupservice.dll
-C:\Projects\vmware-lookupservice\vmware.lookupservice\obj\Debug\netcoreapp3.1\vmware.lookupservice.pdb
